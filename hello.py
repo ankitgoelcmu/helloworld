@@ -1,3 +1,3 @@
-#! /usr/bin/python is good
+#! /usr/bin/python
 # This program prints Hello, world!
 print( 'Hello, world!')
